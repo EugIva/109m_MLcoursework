@@ -4,11 +4,11 @@
 > [!NOTE]
 > Курсовая работа по курсу Фундаментальные концепции ИИ (ML)
 
-  ___Состав группы:___
+  ___Состав группы:___          
 🎓  Прозоров Евгений Иванович 109М    
 🎓  Хренникова Ангелина Сергеевна 109М       
 🎓  Свинаренко Владислав Александрович 109М          
 
-📧 eugene_ivanson@mail.ru
-rep: https://github.com/EugIva/109m_MLcoursework
-DataSet: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+📧 eugene_ivanson@mail.ru       
+rep: https://github.com/EugIva/109m_MLcoursework           
+DataSet: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption         
