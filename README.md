@@ -11,5 +11,6 @@
 
 
 rep: https://github.com/EugIva/109m_MLcoursework           
-DataSet: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
-Presentation: https://docs.google.com/presentation/d/1kjH8HH3w7uot_chqH1EZ9VrH9jVG3T6643dM9iT9HkY/edit?usp=sharing
+DataSet: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption      
+Presentation: https://docs.google.com/presentation/d/1kjH8HH3w7uot_chqH1EZ9VrH9jVG3T6643dM9iT9HkY/edit?usp=sharing      
+    
